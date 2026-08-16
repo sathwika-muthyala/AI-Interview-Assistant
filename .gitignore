@@ -1,0 +1,20 @@
+# Backend
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+
+# Frontend
+node_modules/
+dist/
+.DS_Store
+
+# Docker
+.docker/
+
+# IDEs
+.vscode/
+.idea/
